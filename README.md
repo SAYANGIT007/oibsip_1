@@ -1,2 +1,2 @@
 # oibsip_1
-Iris flower model Machine Learning (Regression)
+Iris flower model Machine Learning (Sklearn Regression)
