@@ -1,2 +1,2 @@
 # oibsip_1
-Iris flower model Machine Learning (Sklearn Regression)
+Iris flower model Machine Learning (Logistic Regression)
